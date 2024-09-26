@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "cinema",
     "user",
-    "debug_toolbar",
+    # "debug_toolbar",
 ]
 
 MIDDLEWARE = [
